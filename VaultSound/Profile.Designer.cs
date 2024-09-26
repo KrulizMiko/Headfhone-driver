@@ -47,8 +47,9 @@
             // 
             // button2
             // 
+            this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.button2.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button2.Location = new System.Drawing.Point(641, 529);
+            this.button2.Location = new System.Drawing.Point(800, 529);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(116, 40);
             this.button2.TabIndex = 10;
@@ -60,7 +61,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft YaHei", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label2.Location = new System.Drawing.Point(594, 9);
+            this.label2.Location = new System.Drawing.Point(753, 8);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(163, 28);
             this.label2.TabIndex = 11;
@@ -91,12 +92,15 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(769, 581);
+            this.BackgroundImage = global::VaultSound.Properties.Resources.Rectangle_1;
+            this.ClientSize = new System.Drawing.Size(928, 581);
             this.Controls.Add(this.General);
             this.Controls.Add(this.Mail);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.Nickname);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Profile";
             this.Text = "Profile";
             this.ResumeLayout(false);

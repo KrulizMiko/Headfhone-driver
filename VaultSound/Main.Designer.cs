@@ -31,7 +31,6 @@
             this.Profile = new System.Windows.Forms.Button();
             this.General = new System.Windows.Forms.Button();
             this.Radio = new System.Windows.Forms.Button();
-            this.Book = new System.Windows.Forms.Button();
             this.Settings = new System.Windows.Forms.Button();
             this.Playlist = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
@@ -46,8 +45,10 @@
             // 
             // Profile
             // 
+            this.Profile.BackgroundImage = global::VaultSound.Properties.Resources.Rectangle_1;
             this.Profile.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Profile.Location = new System.Drawing.Point(653, 493);
+            this.Profile.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.Profile.Location = new System.Drawing.Point(812, 23);
             this.Profile.Name = "Profile";
             this.Profile.Size = new System.Drawing.Size(104, 35);
             this.Profile.TabIndex = 1;
@@ -75,30 +76,23 @@
             this.Radio.Text = "Радио";
             this.Radio.UseVisualStyleBackColor = true;
             // 
-            // Book
-            // 
-            this.Book.Font = new System.Drawing.Font("Bahnschrift Condensed", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Book.Location = new System.Drawing.Point(100, 64);
-            this.Book.Name = "Book";
-            this.Book.Size = new System.Drawing.Size(140, 31);
-            this.Book.TabIndex = 4;
-            this.Book.Text = "Подскаты и книги";
-            this.Book.UseVisualStyleBackColor = true;
-            // 
             // Settings
             // 
+            this.Settings.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.Settings.BackgroundImage = global::VaultSound.Properties.Resources.Group_1;
             this.Settings.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Settings.Location = new System.Drawing.Point(653, 534);
+            this.Settings.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.Settings.Location = new System.Drawing.Point(690, 23);
             this.Settings.Name = "Settings";
             this.Settings.Size = new System.Drawing.Size(104, 35);
             this.Settings.TabIndex = 5;
             this.Settings.Text = "Настройки";
-            this.Settings.UseVisualStyleBackColor = true;
+            this.Settings.UseVisualStyleBackColor = false;
             // 
             // Playlist
             // 
             this.Playlist.Font = new System.Drawing.Font("Bahnschrift Condensed", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Playlist.Location = new System.Drawing.Point(115, 246);
+            this.Playlist.Location = new System.Drawing.Point(585, 27);
             this.Playlist.Name = "Playlist";
             this.Playlist.Size = new System.Drawing.Size(94, 31);
             this.Playlist.TabIndex = 6;
@@ -108,8 +102,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Transparent;
+            this.label1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.label1.Font = new System.Drawing.Font("Microsoft YaHei", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.Location = new System.Drawing.Point(12, 206);
+            this.label1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label1.Location = new System.Drawing.Point(22, 104);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(187, 28);
             this.label1.TabIndex = 7;
@@ -118,7 +115,7 @@
             // Search
             // 
             this.Search.Font = new System.Drawing.Font("Bahnschrift Condensed", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Search.Location = new System.Drawing.Point(27, 64);
+            this.Search.Location = new System.Drawing.Point(512, 27);
             this.Search.Name = "Search";
             this.Search.Size = new System.Drawing.Size(67, 31);
             this.Search.TabIndex = 8;
@@ -128,7 +125,7 @@
             // ForU
             // 
             this.ForU.Font = new System.Drawing.Font("Bahnschrift Condensed", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.ForU.Location = new System.Drawing.Point(27, 246);
+            this.ForU.Location = new System.Drawing.Point(27, 186);
             this.ForU.Name = "ForU";
             this.ForU.Size = new System.Drawing.Size(82, 31);
             this.ForU.TabIndex = 9;
@@ -139,7 +136,7 @@
             // Auditioned
             // 
             this.Auditioned.Font = new System.Drawing.Font("Bahnschrift Condensed", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Auditioned.Location = new System.Drawing.Point(12, 283);
+            this.Auditioned.Location = new System.Drawing.Point(27, 276);
             this.Auditioned.Name = "Auditioned";
             this.Auditioned.Size = new System.Drawing.Size(134, 54);
             this.Auditioned.TabIndex = 10;
@@ -168,7 +165,7 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Bahnschrift Condensed", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button2.Location = new System.Drawing.Point(246, 64);
+            this.button2.Location = new System.Drawing.Point(394, 27);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(112, 31);
             this.button2.TabIndex = 13;
@@ -189,7 +186,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(769, 581);
+            this.BackgroundImage = global::VaultSound.Properties.Resources.Rectangle_1;
+            this.ClientSize = new System.Drawing.Size(928, 581);
+            this.ControlBox = false;
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -200,7 +199,6 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Playlist);
             this.Controls.Add(this.Settings);
-            this.Controls.Add(this.Book);
             this.Controls.Add(this.Radio);
             this.Controls.Add(this.General);
             this.Controls.Add(this.Profile);
@@ -216,7 +214,6 @@
         private System.Windows.Forms.Button Profile;
         private System.Windows.Forms.Button General;
         private System.Windows.Forms.Button Radio;
-        private System.Windows.Forms.Button Book;
         private System.Windows.Forms.Button Settings;
         private System.Windows.Forms.Button Playlist;
         private System.Windows.Forms.Label label1;

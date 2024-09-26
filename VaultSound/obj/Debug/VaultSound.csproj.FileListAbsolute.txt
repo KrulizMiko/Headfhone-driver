@@ -11,3 +11,16 @@ C:\Users\артём\OneDrive\Рабочий стол\VaultSound\obj\Debug\VaultS
 C:\Users\артём\OneDrive\Рабочий стол\VaultSound\obj\Debug\VaultSound.pdb
 C:\Users\артём\OneDrive\Рабочий стол\VaultSound\obj\Debug\VaultSound.Profile.resources
 C:\Users\артём\OneDrive\Рабочий стол\VaultSound\obj\Debug\VaultSound.Authorization.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-2branch\Vault_Sound-main\VaultSound\bin\Debug\VaultSound.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-2branch\Vault_Sound-main\VaultSound\bin\Debug\VaultSound.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-2branch\Vault_Sound-main\VaultSound\bin\Debug\VaultSound.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-2branch\Vault_Sound-main\VaultSound\obj\Debug\VaultSound.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-2branch\Vault_Sound-main\VaultSound\obj\Debug\VaultSound.Authorization.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-2branch\Vault_Sound-main\VaultSound\obj\Debug\VaultSound.Integration.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-2branch\Vault_Sound-main\VaultSound\obj\Debug\VaultSound.Main.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-2branch\Vault_Sound-main\VaultSound\obj\Debug\VaultSound.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-2branch\Vault_Sound-main\VaultSound\obj\Debug\VaultSound.Profile.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-2branch\Vault_Sound-main\VaultSound\obj\Debug\VaultSound.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-2branch\Vault_Sound-main\VaultSound\obj\Debug\VaultSound.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-2branch\Vault_Sound-main\VaultSound\obj\Debug\VaultSound.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-2branch\Vault_Sound-main\VaultSound\obj\Debug\VaultSound.pdb
