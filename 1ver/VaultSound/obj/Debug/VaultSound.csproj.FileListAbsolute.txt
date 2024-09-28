@@ -1,0 +1,13 @@
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound\bin\Debug\VaultSound.exe.config
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound\bin\Debug\VaultSound.exe
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound\bin\Debug\VaultSound.pdb
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound\obj\Debug\VaultSound.csproj.AssemblyReference.cache
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound\obj\Debug\VaultSound.Integration.resources
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound\obj\Debug\VaultSound.Main.resources
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound\obj\Debug\VaultSound.Properties.Resources.resources
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound\obj\Debug\VaultSound.csproj.GenerateResource.cache
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound\obj\Debug\VaultSound.csproj.CoreCompileInputs.cache
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound\obj\Debug\VaultSound.exe
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound\obj\Debug\VaultSound.pdb
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound\obj\Debug\VaultSound.Profile.resources
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound\obj\Debug\VaultSound.Authorization.resources
