@@ -43,7 +43,10 @@
             this.Mail0 = new System.Windows.Forms.TextBox();
             this.Enter = new System.Windows.Forms.Button();
             this.Reg = new System.Windows.Forms.Button();
-            this.sw2 = new System.Windows.Forms.Button();
+            this.svv = new System.Windows.Forms.Button();
+            this.Compl = new System.Windows.Forms.Button();
+            this.show = new System.Windows.Forms.Button();
+            this.show1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label2
@@ -53,7 +56,7 @@
             this.label2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.label2.Font = new System.Drawing.Font("Microsoft YaHei", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label2.Location = new System.Drawing.Point(405, 9);
+            this.label2.Location = new System.Drawing.Point(377, 9);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(158, 28);
             this.label2.TabIndex = 12;
@@ -79,6 +82,7 @@
             this.Nick.Name = "Nick";
             this.Nick.Size = new System.Drawing.Size(245, 35);
             this.Nick.TabIndex = 14;
+            this.Nick.TextChanged += new System.EventHandler(this.Nick_TextChanged);
             // 
             // Mail
             // 
@@ -113,6 +117,7 @@
             this.Pass.Name = "Pass";
             this.Pass.Size = new System.Drawing.Size(245, 35);
             this.Pass.TabIndex = 17;
+            this.Pass.TextChanged += new System.EventHandler(this.Pass_TextChanged);
             // 
             // label4
             // 
@@ -168,6 +173,7 @@
             this.newPass.Name = "newPass";
             this.newPass.Size = new System.Drawing.Size(254, 35);
             this.newPass.TabIndex = 22;
+            this.newPass.TextChanged += new System.EventHandler(this.newPass_TextChanged);
             // 
             // label7
             // 
@@ -199,6 +205,7 @@
             this.Enter.TabIndex = 25;
             this.Enter.Text = "Войти";
             this.Enter.UseVisualStyleBackColor = true;
+            this.Enter.Click += new System.EventHandler(this.Enter_Click);
             // 
             // Reg
             // 
@@ -209,17 +216,51 @@
             this.Reg.TabIndex = 26;
             this.Reg.Text = "Зарегистрироваться";
             this.Reg.UseVisualStyleBackColor = true;
+            this.Reg.Click += new System.EventHandler(this.Reg_Click);
             // 
-            // sw2
+            // svv
             // 
-            this.sw2.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.sw2.Location = new System.Drawing.Point(410, 530);
-            this.sw2.Name = "sw2";
-            this.sw2.Size = new System.Drawing.Size(165, 39);
-            this.sw2.TabIndex = 27;
-            this.sw2.Text = "Перейти на главную";
-            this.sw2.UseVisualStyleBackColor = true;
-            this.sw2.Click += new System.EventHandler(this.sw2_Click);
+            this.svv.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.svv.Location = new System.Drawing.Point(785, 13);
+            this.svv.Name = "svv";
+            this.svv.Size = new System.Drawing.Size(131, 35);
+            this.svv.TabIndex = 27;
+            this.svv.Text = "Свернуть прил";
+            this.svv.UseVisualStyleBackColor = true;
+            this.svv.Click += new System.EventHandler(this.svv_Click);
+            // 
+            // Compl
+            // 
+            this.Compl.Font = new System.Drawing.Font("Bahnschrift Condensed", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.Compl.Location = new System.Drawing.Point(382, 512);
+            this.Compl.Name = "Compl";
+            this.Compl.Size = new System.Drawing.Size(133, 57);
+            this.Compl.TabIndex = 28;
+            this.Compl.Text = "Продолжить без авторизации";
+            this.Compl.UseVisualStyleBackColor = true;
+            this.Compl.Click += new System.EventHandler(this.Compl_Click);
+            // 
+            // show
+            // 
+            this.show.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.show.Location = new System.Drawing.Point(268, 217);
+            this.show.Name = "show";
+            this.show.Size = new System.Drawing.Size(78, 33);
+            this.show.TabIndex = 29;
+            this.show.Text = "Показать";
+            this.show.UseVisualStyleBackColor = true;
+            this.show.Click += new System.EventHandler(this.show_Click);
+            // 
+            // show1
+            // 
+            this.show1.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.show1.Location = new System.Drawing.Point(574, 215);
+            this.show1.Name = "show1";
+            this.show1.Size = new System.Drawing.Size(78, 33);
+            this.show1.TabIndex = 30;
+            this.show1.Text = "Показать";
+            this.show1.UseVisualStyleBackColor = true;
+            this.show1.Click += new System.EventHandler(this.show1_Click);
             // 
             // Authorization
             // 
@@ -228,7 +269,10 @@
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackgroundImage = global::VaultSound.Properties.Resources.Rectangle_1;
             this.ClientSize = new System.Drawing.Size(928, 581);
-            this.Controls.Add(this.sw2);
+            this.Controls.Add(this.show1);
+            this.Controls.Add(this.show);
+            this.Controls.Add(this.Compl);
+            this.Controls.Add(this.svv);
             this.Controls.Add(this.Reg);
             this.Controls.Add(this.Enter);
             this.Controls.Add(this.Mail0);
@@ -269,6 +313,9 @@
         private System.Windows.Forms.TextBox Mail0;
         private System.Windows.Forms.Button Enter;
         private System.Windows.Forms.Button Reg;
-        private System.Windows.Forms.Button sw2;
+        private System.Windows.Forms.Button svv;
+        private System.Windows.Forms.Button Compl;
+        private System.Windows.Forms.Button show;
+        private System.Windows.Forms.Button show1;
     }
 }

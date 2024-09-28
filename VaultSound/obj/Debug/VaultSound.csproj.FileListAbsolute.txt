@@ -24,3 +24,44 @@ C:\Users\артём\OneDrive\Рабочий стол\VaultSound\obj\Debug\VaultS
 \\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-2branch\Vault_Sound-main\VaultSound\obj\Debug\VaultSound.csproj.CoreCompileInputs.cache
 \\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-2branch\Vault_Sound-main\VaultSound\obj\Debug\VaultSound.exe
 \\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-2branch\Vault_Sound-main\VaultSound\obj\Debug\VaultSound.pdb
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\VaultSound.exe.config
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\VaultSound.exe
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\VaultSound.pdb
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\obj\Debug\VaultSound.csproj.AssemblyReference.cache
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\obj\Debug\VaultSound.Authorization.resources
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\obj\Debug\VaultSound.Main.resources
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\obj\Debug\VaultSound.Properties.Resources.resources
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\obj\Debug\VaultSound.Profile.resources
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\obj\Debug\VaultSound.csproj.GenerateResource.cache
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\obj\Debug\VaultSound.csproj.CoreCompileInputs.cache
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\obj\Debug\VaultSound.exe
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\obj\Debug\VaultSound.pdb
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\NAudio.Asio.dll
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\NAudio.Core.dll
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\NAudio.dll
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\NAudio.Midi.dll
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\NAudio.Wasapi.dll
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\NAudio.WinForms.dll
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\NAudio.WinMM.dll
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\System.Security.AccessControl.dll
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\NAudio.xml
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\NAudio.Asio.xml
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\NAudio.Core.xml
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\NAudio.Midi.xml
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\NAudio.Wasapi.xml
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\NAudio.WinForms.xml
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\NAudio.WinMM.xml
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\System.Security.AccessControl.xml
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\obj\Debug\VaultSound.csproj.Up2Date
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\EntityFramework.dll
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\System.Data.SQLite.dll
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\EntityFramework.xml
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\артём\OneDrive\Рабочий стол\VaultSound-Git\VaultSound\bin\Debug\System.Data.SQLite.xml
